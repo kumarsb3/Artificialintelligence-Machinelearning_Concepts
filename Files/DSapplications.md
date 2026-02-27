@@ -15,7 +15,7 @@
 ## ***Basics***    
 
 
-![Basics ML1](./Files/1.jpg)
+![Basics ML1](1.jpg)
 
 
 
@@ -23,4 +23,4 @@
 
 
 
-![Basics ML2](./Files/2.jpg)
+![Basics ML2](2.jpg)
