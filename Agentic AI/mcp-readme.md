@@ -1,4 +1,8 @@
-![mcp](Files/MCP-Simplified.png)
-![mcp](Files/MCP-Structure.jpg)
-![mcp](Files/mcp-aiagent.webp)
+![mcp1](../Files/MCP-Simplified.png)
+
+
+![mcp2](../Files/MCP-Structure.jpg)
+
+
+![mcp3](../Files/mcp-aiagent.webp)
 
